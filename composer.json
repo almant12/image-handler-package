@@ -1,0 +1,25 @@
+{
+    "name": "almant/image-handler",
+    "description": "this is a simple package for store image in project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Almant\\ImageHandler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "almant12",
+            "email": "dokoalmant123@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/http": "^9.0",
+        "illuminate/filesystem": "^9.0"
+    },
+    "autoload-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}

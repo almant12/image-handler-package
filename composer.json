@@ -1,5 +1,5 @@
 {
-    "name": "almant/image-handler",
+    "name": "almant/image-handler-almant",
     "description": "this is a simple package for store image in project",
     "type": "library",
     "license": "MIT",

@@ -14,7 +14,11 @@
             "email": "dokoalmant123@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "almant/image-handler": "dev-main"
+    }
     "require": {
         "illuminate/http": "^9.0",
         "illuminate/filesystem": "^9.0"

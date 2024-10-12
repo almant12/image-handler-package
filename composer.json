@@ -17,11 +17,9 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "almant/image-handler": "dev-main"
-    },
-    "require": {
-        "illuminate/http": "^9.0",
-        "illuminate/filesystem": "^9.0"
+        "almant/image-handler": "dev-main",
+        "illuminate/http": "^9.52",
+        "illuminate/filesystem": "^9.52"
     },
     "autoload-dev": {
         "phpunit/phpunit": "^9.0"

@@ -18,7 +18,7 @@
     "prefer-stable": true,
     "require": {
         "almant/image-handler": "dev-main"
-    }
+    },
     "require": {
         "illuminate/http": "^9.0",
         "illuminate/filesystem": "^9.0"

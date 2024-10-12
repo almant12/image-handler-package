@@ -17,7 +17,6 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "almant/image-handler": "dev-main",
         "illuminate/http": "^9.52",
         "illuminate/filesystem": "^9.52"
     },

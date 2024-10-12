@@ -1,9 +1,8 @@
 {
     "name": "almant/image-handler-almant",
-    "description": "this is a simple package for store image in project",
+    "description": "this is a simple package for storing images in a project",
     "type": "library",
     "license": "MIT",
-    "version": "1.0",
     "autoload": {
         "psr-4": {
             "Almant\\ImageHandler\\": "src/"
